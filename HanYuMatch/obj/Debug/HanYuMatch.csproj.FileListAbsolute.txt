@@ -1,0 +1,10 @@
+c:\users\xiaoma1\documents\visual studio 2013\Projects\HanYuMatch\HanYuMatch\bin\Debug\HanYuMatch.exe.config
+c:\users\xiaoma1\documents\visual studio 2013\Projects\HanYuMatch\HanYuMatch\obj\Debug\HanYuMatch.csprojResolveAssemblyReference.cache
+c:\users\xiaoma1\documents\visual studio 2013\Projects\HanYuMatch\HanYuMatch\obj\Debug\HanYuMatch.MainForm.resources
+c:\users\xiaoma1\documents\visual studio 2013\Projects\HanYuMatch\HanYuMatch\obj\Debug\HanYuMatch.Properties.Resources.resources
+c:\users\xiaoma1\documents\visual studio 2013\Projects\HanYuMatch\HanYuMatch\obj\Debug\HanYuMatch.csproj.GenerateResource.Cache
+c:\users\xiaoma1\documents\visual studio 2013\Projects\HanYuMatch\HanYuMatch\bin\Debug\HanYuMatch.exe
+c:\users\xiaoma1\documents\visual studio 2013\Projects\HanYuMatch\HanYuMatch\bin\Debug\HanYuMatch.pdb
+c:\users\xiaoma1\documents\visual studio 2013\Projects\HanYuMatch\HanYuMatch\obj\Debug\HanYuMatch.exe
+c:\users\xiaoma1\documents\visual studio 2013\Projects\HanYuMatch\HanYuMatch\obj\Debug\HanYuMatch.pdb
+c:\users\xiaoma1\documents\visual studio 2013\Projects\HanYuMatch\HanYuMatch\obj\Debug\HanYuMatch.SetIntiial.resources
